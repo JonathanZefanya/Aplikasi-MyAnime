@@ -23,3 +23,6 @@ folder aplikasi akan berada di <br>
 ![alt text](https://github.com/JonathanZefanya/Aplikasi-MyAnime/blob/main/dokumentasi/profile-light.jpg)
 ![alt text](https://github.com/JonathanZefanya/Aplikasi-MyAnime/blob/main/dokumentasi/login.jpg)
 ![alt text](https://github.com/JonathanZefanya/Aplikasi-MyAnime/blob/main/dokumentasi/nointernet.jpg)
+
+## KONTAK
+Jika kamu ingin berkomunikasi dengan saya silahkan klik => <a href="https://jojo.tirtagt.xyz">Contact Me</a>
