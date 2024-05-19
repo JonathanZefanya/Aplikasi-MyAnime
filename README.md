@@ -11,6 +11,6 @@ ketik diterminal <br>
 > C:\Users\"Nama Anda"\Code>flutter build apk <br>
 
 folder aplikasi akan berada di <br>
-> build/app/outputs/flutter-apk/app-release.apk
+> Code/build/app/outputs/flutter-apk/app-release.apk
 
 ## SCREENSHOT APLIKASI
