@@ -9,6 +9,7 @@ MyAnime adalah aplikasi untuk menyimpan anime, mencari anime, dan berkomentar.
 ## CARA MENJALANKAN APLIKASI
 ketik diterminal <br>
 > C:\Users\"Nama Anda"\Code>flutter build apk <br>
+
 folder aplikasi akan berada di <br>
 > build/app/outputs/flutter-apk/app-release.apk
 
