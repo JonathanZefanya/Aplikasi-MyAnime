@@ -15,7 +15,7 @@ class HomeView extends GetView<HomeController> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'My Anime',
+          'MyAnime',
           style: TextStyle(
             fontWeight: FontWeight.bold,
           ),

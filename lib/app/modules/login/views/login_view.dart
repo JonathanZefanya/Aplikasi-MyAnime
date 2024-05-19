@@ -36,7 +36,7 @@ class LoginView extends GetView<LoginController> {
                         height: 50,
                       ),
                       Image.asset(
-                        "assets/logosukanime.png",
+                        "assets/logo.jpg",
                         width: 200,
                         height: 200,
                       ),
@@ -44,7 +44,7 @@ class LoginView extends GetView<LoginController> {
                         height: 10,
                       ),
                       const Text(
-                        "Login Sukanime",
+                        "Login MyAnime",
                         style: TextStyle(
                           fontWeight: FontWeight.bold,
                           fontSize: 23,
