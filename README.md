@@ -14,3 +14,12 @@ folder aplikasi akan berada di <br>
 > Code/build/app/outputs/flutter-apk/app-release.apk
 
 ## SCREENSHOT APLIKASI
+![alt text](https://github.com/JonathanZefanya/Aplikasi-MyAnime/blob/main/dokumentasi/home.jpg)
+![alt text](https://github.com/JonathanZefanya/Aplikasi-MyAnime/blob/main/dokumentasi/detail-info.jpg)
+![alt text](https://github.com/JonathanZefanya/Aplikasi-MyAnime/blob/main/dokumentasi/detail-trailer.jpg)
+![alt text](https://github.com/JonathanZefanya/Aplikasi-MyAnime/blob/main/dokumentasi/detail-comment.jpg)
+![alt text](https://github.com/JonathanZefanya/Aplikasi-MyAnime/blob/main/dokumentasi/explore.jpg)
+![alt text](https://github.com/JonathanZefanya/Aplikasi-MyAnime/blob/main/dokumentasi/profile.jpg)
+![alt text](https://github.com/JonathanZefanya/Aplikasi-MyAnime/blob/main/dokumentasi/profile-light.jpg)
+![alt text](https://github.com/JonathanZefanya/Aplikasi-MyAnime/blob/main/dokumentasi/login.jpg)
+![alt text](https://github.com/JonathanZefanya/Aplikasi-MyAnime/blob/main/dokumentasi/nointernet.jpg)
