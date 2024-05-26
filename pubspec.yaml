@@ -20,7 +20,7 @@ dependencies:
   flutter_inappwebview: ^6.0.0
   shared_preferences: ^2.2.2
   firebase_core: ^2.25.4
-  firebase_auth: ^4.17.5
+  firebase_auth: ^4.19.6
   google_sign_in: ^6.2.1
   flutter_launcher_icons: ^0.13.1
   cloud_firestore: ^4.15.10
