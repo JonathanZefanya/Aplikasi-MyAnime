@@ -1,4 +1,4 @@
-package com.example.flutter_list_anime
+package com.example.MyAnime
 
 import io.flutter.embedding.android.FlutterActivity
 

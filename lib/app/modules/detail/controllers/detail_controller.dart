@@ -2,8 +2,8 @@ import 'dart:convert';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_list_anime/app/data/base/base_url.dart';
-import 'package:flutter_list_anime/app/data/models/anime_model.dart';
+import 'package:MyAnime/app/data/base/base_url.dart';
+import 'package:MyAnime/app/data/models/anime_model.dart';
 import 'package:get/get.dart';
 import "package:http/http.dart" as http;
 import 'package:intl/intl.dart';

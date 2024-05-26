@@ -1,6 +1,6 @@
 {
-    "name": "flutter_list_anime",
-    "short_name": "flutter_list_anime",
+    "name": "MyAnime",
+    "short_name": "MyAnime",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",

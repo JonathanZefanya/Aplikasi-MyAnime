@@ -1,26 +1,79 @@
 {
   "project_info": {
-    "project_number": "496656649640",
-    "project_id": "flutter-mynimelist",
-    "storage_bucket": "flutter-mynimelist.appspot.com"
+    "project_number": "310285663487",
+    "project_id": "myanime-b409e",
+    "storage_bucket": "myanime-b409e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:496656649640:android:93a6c4ece71cfb1516619d",
+        "mobilesdk_app_id": "1:310285663487:android:96edf53260ecea2c6be0ca",
         "android_client_info": {
-          "package_name": "com.example.flutter_list_anime"
+          "package_name": "com.example.MyAnime"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "310285663487-2j4d91s4s4gjcn871t7kgcfelc5pgdd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyBrttao6dFdi7YEyvlECB89bWgBmwuag84"
+          "current_key": "AIzaSyDMSTs89Pg6n2BTtL-J6Cv9ci_2rVGy3EE"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310285663487-2j4d91s4s4gjcn871t7kgcfelc5pgdd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "310285663487-4fjaaiucvehbdbhhcc6l7mhtitvtkvt9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xead.myanime"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310285663487:android:be027ee95d68033a6be0ca",
+        "android_client_info": {
+          "package_name": "com.xead.myanime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310285663487-2j4d91s4s4gjcn871t7kgcfelc5pgdd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMSTs89Pg6n2BTtL-J6Cv9ci_2rVGy3EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310285663487-2j4d91s4s4gjcn871t7kgcfelc5pgdd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "310285663487-4fjaaiucvehbdbhhcc6l7mhtitvtkvt9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xead.myanime"
+              }
+            }
+          ]
         }
       }
     }

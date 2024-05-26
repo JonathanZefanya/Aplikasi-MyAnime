@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_list_anime/app/modules/profile/controllers/profile_controller.dart';
-import 'package:flutter_list_anime/app/routes/app_pages.dart';
+import 'package:MyAnime/app/modules/profile/controllers/profile_controller.dart';
+import 'package:MyAnime/app/routes/app_pages.dart';
 import 'package:flutter_carousel_widget/flutter_carousel_widget.dart';
 import 'package:get/get.dart';
 import '../controllers/home_controller.dart';

@@ -1,9 +1,9 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_list_anime/app/modules/profile/controllers/profile_controller.dart';
-import 'package:flutter_list_anime/app/modules/widgets/loading_widget.dart';
-import 'package:flutter_list_anime/app/modules/widgets/nointernet_widget.dart';
-import 'package:flutter_list_anime/app/routes/app_pages.dart';
+import 'package:MyAnime/app/modules/profile/controllers/profile_controller.dart';
+import 'package:MyAnime/app/modules/widgets/loading_widget.dart';
+import 'package:MyAnime/app/modules/widgets/nointernet_widget.dart';
+import 'package:MyAnime/app/routes/app_pages.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 import '../controllers/favorite_controller.dart';

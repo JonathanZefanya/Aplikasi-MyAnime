@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_list_anime/app/routes/app_pages.dart';
+import 'package:MyAnime/app/routes/app_pages.dart';
 
 import 'package:get/get.dart';
 

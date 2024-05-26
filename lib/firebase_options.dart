@@ -44,38 +44,40 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCIjoYG-6zQ_gXYlAdq3GHYtcHNMzw-jvg',
-    appId: '1:496656649640:web:0af3d45b3d731a9f16619d',
-    messagingSenderId: '496656649640',
-    projectId: 'flutter-mynimelist',
-    authDomain: 'flutter-mynimelist.firebaseapp.com',
-    storageBucket: 'flutter-mynimelist.appspot.com',
-    measurementId: 'G-5V71MTCQE7',
+    apiKey: 'AIzaSyDra2vKccv2DgA4JNO7_AXoDoDXPohDTeU',
+    appId: '1:310285663487:web:a6ce5a1890fc74166be0ca',
+    messagingSenderId: '310285663487',
+    projectId: 'myanime-b409e',
+    authDomain: 'myanime-b409e.firebaseapp.com',
+    storageBucket: 'myanime-b409e.appspot.com',
+    measurementId: 'G-XKPVWGEQBG',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBrttao6dFdi7YEyvlECB89bWgBmwuag84',
-    appId: '1:496656649640:android:93a6c4ece71cfb1516619d',
-    messagingSenderId: '496656649640',
-    projectId: 'flutter-mynimelist',
-    storageBucket: 'flutter-mynimelist.appspot.com',
+    apiKey: 'AIzaSyDMSTs89Pg6n2BTtL-J6Cv9ci_2rVGy3EE',
+    appId: '1:310285663487:android:96edf53260ecea2c6be0ca',
+    messagingSenderId: '310285663487',
+    projectId: 'myanime-b409e',
+    storageBucket: 'myanime-b409e.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAckAfbZS8qMJefdbyPw0FiaWjFPN1HbSE',
-    appId: '1:496656649640:ios:fef3311e437b8ad716619d',
-    messagingSenderId: '496656649640',
-    projectId: 'flutter-mynimelist',
-    storageBucket: 'flutter-mynimelist.appspot.com',
-    iosBundleId: 'com.example.flutterListAnime',
+    apiKey: 'AIzaSyA1gEmpW0gH-0B_TFGVW07Iv9OGRiD0hUY',
+    appId: '1:310285663487:ios:e61ef178b53b0a006be0ca',
+    messagingSenderId: '310285663487',
+    projectId: 'myanime-b409e',
+    storageBucket: 'myanime-b409e.appspot.com',
+    iosClientId: '310285663487-7etb4c653h0k9724747emmkp0c1il8sg.apps.googleusercontent.com',
+    iosBundleId: 'com.example.myanime',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAckAfbZS8qMJefdbyPw0FiaWjFPN1HbSE',
-    appId: '1:496656649640:ios:6ce505a002ece7da16619d',
-    messagingSenderId: '496656649640',
-    projectId: 'flutter-mynimelist',
-    storageBucket: 'flutter-mynimelist.appspot.com',
-    iosBundleId: 'com.example.flutterListAnime.RunnerTests',
+    apiKey: 'AIzaSyA1gEmpW0gH-0B_TFGVW07Iv9OGRiD0hUY',
+    appId: '1:310285663487:ios:e61ef178b53b0a006be0ca',
+    messagingSenderId: '310285663487',
+    projectId: 'myanime-b409e',
+    storageBucket: 'myanime-b409e.appspot.com',
+    iosClientId: '310285663487-7etb4c653h0k9724747emmkp0c1il8sg.apps.googleusercontent.com',
+    iosBundleId: 'com.example.myanime',
   );
 }
