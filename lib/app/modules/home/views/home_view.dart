@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:MyAnime/app/modules/profile/controllers/profile_controller.dart';
-import 'package:MyAnime/app/routes/app_pages.dart';
+import 'package:myanime/app/modules/profile/controllers/profile_controller.dart';
+import 'package:myanime/app/routes/app_pages.dart';
 import 'package:flutter_carousel_widget/flutter_carousel_widget.dart';
 import 'package:get/get.dart';
 import '../controllers/home_controller.dart';
@@ -15,7 +15,7 @@ class HomeView extends GetView<HomeController> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'MyAnime',
+          'myanime',
           style: TextStyle(
             fontWeight: FontWeight.bold,
           ),

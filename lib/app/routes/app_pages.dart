@@ -1,4 +1,4 @@
-import 'package:MyAnime/app/modules/allAnime/views/all_anime_view.dart';
+import 'package:myanime/app/modules/allAnime/views/all_anime_view.dart';
 import 'package:get/get.dart';
 
 import '../modules/allAnime/bindings/all_anime_binding.dart';

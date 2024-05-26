@@ -4,8 +4,8 @@ import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:MyAnime/app/data/base/base_url.dart';
-import 'package:MyAnime/app/data/models/anime_model.dart';
+import 'package:myanime/app/data/base/base_url.dart';
+import 'package:myanime/app/data/models/anime_model.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
 

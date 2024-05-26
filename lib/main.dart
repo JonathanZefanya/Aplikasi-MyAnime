@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       themeMode: ThemeMode.light,
-      title: "MyAnime",
+      title: "myanime",
       initialRoute: AppPages.INITIAL,
       getPages: AppPages.routes,
     );

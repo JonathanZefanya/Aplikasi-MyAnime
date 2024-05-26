@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:MyAnime/app/modules/profile/controllers/profile_controller.dart';
+import 'package:myanime/app/modules/profile/controllers/profile_controller.dart';
 
 class LoginController extends GetxController {
   final FirebaseAuth firebaseAuth = FirebaseAuth.instance;

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:MyAnime/app/modules/login/controllers/login_controller.dart';
-import 'package:MyAnime/app/modules/widgets/nointernet_widget.dart';
-import 'package:MyAnime/app/routes/app_pages.dart';
+import 'package:myanime/app/modules/login/controllers/login_controller.dart';
+import 'package:myanime/app/modules/widgets/nointernet_widget.dart';
+import 'package:myanime/app/routes/app_pages.dart';
 import 'package:get/get.dart';
 import '../controllers/profile_controller.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -222,7 +222,7 @@ class ProfileView extends GetView<ProfileController> {
                             size: 30,
                           ),
                           title: const Text(
-                            "dark Mode",
+                            "Dark Mode",
                             style: TextStyle(
                               fontSize: 16,
                               fontWeight: FontWeight.w500,

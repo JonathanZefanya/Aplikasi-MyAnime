@@ -1,6 +1,6 @@
 {
-    "name": "MyAnime",
-    "short_name": "MyAnime",
+    "name": "myanime",
+    "short_name": "myanime",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",

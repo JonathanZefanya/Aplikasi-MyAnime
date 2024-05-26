@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:MyAnime/app/modules/profile/controllers/profile_controller.dart';
-import 'package:MyAnime/app/modules/widgets/nointernet_widget.dart';
+import 'package:myanime/app/modules/profile/controllers/profile_controller.dart';
+import 'package:myanime/app/modules/widgets/nointernet_widget.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:get/get.dart';
 import '../controllers/login_controller.dart';
@@ -44,7 +44,7 @@ class LoginView extends GetView<LoginController> {
                         height: 10,
                       ),
                       const Text(
-                        "Login MyAnime",
+                        "Login myanime",
                         style: TextStyle(
                           fontWeight: FontWeight.bold,
                           fontSize: 23,

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:MyAnime/app/modules/home/views/home_view.dart';
-import 'package:MyAnime/app/modules/profile/controllers/profile_controller.dart';
-import 'package:MyAnime/app/modules/profile/views/profile_view.dart';
-import 'package:MyAnime/app/modules/searchAnime/views/search_anime_view.dart';
+import 'package:myanime/app/modules/home/views/home_view.dart';
+import 'package:myanime/app/modules/profile/controllers/profile_controller.dart';
+import 'package:myanime/app/modules/profile/views/profile_view.dart';
+import 'package:myanime/app/modules/searchAnime/views/search_anime_view.dart';
 
 import 'package:get/get.dart';
 

@@ -1,4 +1,4 @@
-import 'package:MyAnime/app/modules/profile/controllers/profile_controller.dart';
+import 'package:myanime/app/modules/profile/controllers/profile_controller.dart';
 import 'package:get/get.dart';
 
 import '../controllers/login_controller.dart';
