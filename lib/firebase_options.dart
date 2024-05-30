@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDra2vKccv2DgA4JNO7_AXoDoDXPohDTeU',
+    apiKey: 'BUATSENDIRI',
     appId: '1:310285663487:web:a6ce5a1890fc74166be0ca',
     messagingSenderId: '310285663487',
     projectId: 'myanime-b409e',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDMSTs89Pg6n2BTtL-J6Cv9ci_2rVGy3EE',
+    apiKey: 'BUATSENDIRI',
     appId: '1:310285663487:android:96edf53260ecea2c6be0ca',
     messagingSenderId: '310285663487',
     projectId: 'myanime-b409e',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA1gEmpW0gH-0B_TFGVW07Iv9OGRiD0hUY',
+    apiKey: 'BUATSENDIRI',
     appId: '1:310285663487:ios:e61ef178b53b0a006be0ca',
     messagingSenderId: '310285663487',
     projectId: 'myanime-b409e',
@@ -72,7 +72,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA1gEmpW0gH-0B_TFGVW07Iv9OGRiD0hUY',
+    apiKey: 'BUATSENDIRI',
     appId: '1:310285663487:ios:e61ef178b53b0a006be0ca',
     messagingSenderId: '310285663487',
     projectId: 'myanime-b409e',
