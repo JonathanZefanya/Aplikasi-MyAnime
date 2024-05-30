@@ -402,7 +402,7 @@ class DetailView extends StatelessWidget {
                                                 fontSize: 15),
                                           ),
                                           const Text(
-                                            "User menekan dengan cepat, ulangi kembali!",
+                                            "Kamu menekan dengan cepat, ulangi kembali!",
                                             style: TextStyle(
                                                 fontWeight: FontWeight.bold,
                                                 fontSize: 15),
@@ -720,7 +720,7 @@ class DetailView extends StatelessWidget {
                                       borderRadius: BorderRadius.circular(10),
                                     ),
                                     content: const Text(
-                                      "Anda harus Login!",
+                                      "Kamu harus Login!",
                                       textAlign: TextAlign.center,
                                       style: TextStyle(
                                           fontSize: 18,

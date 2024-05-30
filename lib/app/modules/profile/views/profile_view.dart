@@ -246,25 +246,38 @@ class ProfileView extends GetView<ProfileController> {
                         ),
                         const Divider(),
                         const Text(
-                          "Developer",
+                          "Kontak Developer",
                           style: TextStyle(
                             fontWeight: FontWeight.bold,
                             fontSize: 20,
                           ),
                         ),
-                        const SizedBox(
-                          height: 10,
-                        ),
-                        const Text(
-                          "Nama : Jonathan Natannael Zefanya",
-                          style: TextStyle(
-                            fontWeight: FontWeight.bold,
-                          ),
-                        ),
-                        const Text(
-                          "NIM : 1152200024",
-                          style: TextStyle(
-                            fontWeight: FontWeight.bold,
+                        // Kontak ke website portfolio
+                        InkWell(
+                          highlightColor: Colors.transparent,
+                          hoverColor: Colors.transparent,
+                          focusColor: Colors.transparent,
+                          splashColor: Colors.transparent,
+                          onTap: () {
+                            controller.launchURL(
+                                "https://jojo.tirtagt.xyz/#contact");
+                          },
+                          child: const ListTile(
+                            leading: Icon(
+                              Icons.web,
+                              size: 30,
+                            ),
+                            title: Text(
+                              "Website Developer",
+                              style: TextStyle(
+                                fontSize: 16,
+                                fontWeight: FontWeight.w500,
+                              ),
+                            ),
+                            trailing: Icon(
+                              Icons.navigate_next_outlined,
+                              size: 30,
+                            ),
                           ),
                         ),
                         const Divider(),
@@ -272,10 +285,22 @@ class ProfileView extends GetView<ProfileController> {
                           height: 10,
                         ),
                         const Text(
-                          "Versi Aplikasi : 1.0.0",
+                          "Arigatou Gozaimasu Telah Menggunakan Aplikasi Saya",
                           style: TextStyle(
                             fontWeight: FontWeight.bold,
                           ),
+                        ),
+                        const SizedBox(
+                          height: 10,
+                        ),
+                        const Text(
+                          "Salam Hangat Dari Developer :3",
+                          style: TextStyle(
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                        const SizedBox(
+                          height: 10,
                         ),
                       ],
                     ),

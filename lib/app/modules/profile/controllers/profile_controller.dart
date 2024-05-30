@@ -110,4 +110,6 @@ class ProfileController extends GetxController {
     streamSubscription.cancel();
     super.onClose();
   }
+
+  launchURL(String s) {}
 }
