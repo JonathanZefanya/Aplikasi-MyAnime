@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "310285663487",
+    "project_id": "myanime-b409e",
+    "storage_bucket": "myanime-b409e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310285663487:android:96edf53260ecea2c6be0ca",
+        "android_client_info": {
+          "package_name": "com.example.myanime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310285663487-2j4d91s4s4gjcn871t7kgcfelc5pgdd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "BUATSENDIRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310285663487-2j4d91s4s4gjcn871t7kgcfelc5pgdd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "310285663487-4fjaaiucvehbdbhhcc6l7mhtitvtkvt9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xead.myanime"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310285663487:android:be027ee95d68033a6be0ca",
+        "android_client_info": {
+          "package_name": "com.xead.myanime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310285663487-2j4d91s4s4gjcn871t7kgcfelc5pgdd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "BUATSENDIRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310285663487-2j4d91s4s4gjcn871t7kgcfelc5pgdd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "310285663487-4fjaaiucvehbdbhhcc6l7mhtitvtkvt9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xead.myanime"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
