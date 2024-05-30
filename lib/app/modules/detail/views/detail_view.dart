@@ -131,7 +131,7 @@ class DetailView extends StatelessWidget {
                                                     BorderRadius.circular(10),
                                               ),
                                               content: const Text(
-                                                "Anda harus Login!",
+                                                "Kamu harus Login!",
                                                 textAlign: TextAlign.center,
                                                 style: TextStyle(
                                                     fontSize: 18,

@@ -259,8 +259,7 @@ class ProfileView extends GetView<ProfileController> {
                           focusColor: Colors.transparent,
                           splashColor: Colors.transparent,
                           onTap: () {
-                            controller.launchURL(
-                                "https://jojo.tirtagt.xyz/#contact");
+                            controller.launchURL("https://jojo.tirtagt.xyz/#contact");
                           },
                           child: const ListTile(
                             leading: Icon(
@@ -280,6 +279,16 @@ class ProfileView extends GetView<ProfileController> {
                             ),
                           ),
                         ),
+                        const SizedBox(
+                          height: 10,
+                        ),
+                        // Buat text nya ditengah
+                        const Text(
+                          "Jika Ada Masukan Atau Saran Silahkan Hubungi Developer",
+                          style: TextStyle(
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
                         const Divider(),
                         const SizedBox(
                           height: 10,
@@ -294,7 +303,7 @@ class ProfileView extends GetView<ProfileController> {
                           height: 10,
                         ),
                         const Text(
-                          "Salam Hangat Dari Developer :3",
+                          "Salam Hangat Dari Developer (˵ •̀ ᴗ - ˵ ) ✧",
                           style: TextStyle(
                             fontWeight: FontWeight.bold,
                           ),

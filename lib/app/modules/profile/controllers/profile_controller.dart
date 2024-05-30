@@ -5,6 +5,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:url_launcher/url_launcher.dart';
+
+// final Uri _url = Uri.parse('https://jojo.tirtagt.xyz');
 
 class ProfileController extends GetxController {
   var isDark = false.obs;
@@ -111,5 +114,12 @@ class ProfileController extends GetxController {
     super.onClose();
   }
 
-  launchURL(String s) {}
+  Future<void> launchURL(String url) async {
+  if (await canLaunch(url)) {
+    await launch(url, forceSafariVC: false, forceWebView: false);
+  } else {
+    throw 'Could not launch $url';
+  }
+}
+
 }
