@@ -41,16 +41,31 @@ class HomeView extends GetView<HomeController> {
                           height: 10,
                         ),
                         ExpandableCarousel.builder(
-                            options: CarouselOptions(
+                            options: ExpandableCarouselOptions(
                               floatingIndicator: true,
                               autoPlay: true,
                               showIndicator: true,
                               slideIndicator: CircularSlideIndicator(
-                                indicatorRadius: 5,
-                                indicatorBackgroundColor: (profile.isDark.value)
-                                    ? Colors.black
-                                    : Colors.white,
-                                currentIndicatorColor: Colors.blue,
+                                slideIndicatorOptions: SlideIndicatorOptions(
+                                  enableHalo: true,
+                                  haloPadding: const EdgeInsets.all(5),
+                                  haloDecoration: BoxDecoration(
+                                    color: Colors.blue.withOpacity(0.2),
+                                    shape: BoxShape.circle,
+                                  ),
+                                  indicatorRadius: 5,
+                                  indicatorBackgroundColor: (profile.isDark.value)
+                                      ? Colors.black
+                                      : Colors.white,
+                                  currentIndicatorColor: Colors.blue,
+                                ),
+
+                                // indicatorRadius: 5,
+                                // indicatorBackgroundColor: (profile.isDark.value)
+                                //     ? Colors.black
+                                //     : Colors.white,
+                                // currentIndicatorColor: Colors.blue,
+                                
                               ),
                             ),
                             itemCount: controller.animeImageCard.length,
